@@ -1,0 +1,7 @@
+*.userprefs
+*.sln
+*.csproj
+*.apk
+Library/
+ProjectSettings/
+UnityPackageManager/
